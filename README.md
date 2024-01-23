@@ -1,7 +1,7 @@
 # axon_tension
 The readme document for codes to reproduce the results of the axon tension paper.
 
-To run the simulation, place the Fortran file ‘UMAT_axon_tension.f’ and the Python file ‘Python_subroutine_axon_tension.py’ in the same folder. 
+To run the simulation, place the Fortran file ‘**UMAT_axon_tension.f**’ and the Python file ‘**Python_subroutine_axon_tension.py**’ in the same folder. 
 
 Next, place one of the Python scripts for a specific section in the same folder.
 
