@@ -290,7 +290,7 @@ def Create_Boundary_Conditions(ModelName, Step):
     Parameters
     ----------
     ModelName : string 
-        determines what model should be modified
+        name of the model to be modified
     Step : string
         name of step to create BC in
     
@@ -666,7 +666,7 @@ def Modify_input_for_initialize_growth_variable(ModelName):
     Parameters
     ---------- 
     ModelName : string
-        determines what model should be modified
+        name of the model to be modified
 
     """
 
