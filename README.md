@@ -20,7 +20,9 @@ For other scripts:
 **abaqus cae noGUI=Wiring_length_keep_eta.py**
 
 
-To plot post-processed heatmaps, place the data files (.cvs or .npy) with the plotting script in the same folder. The data for the corresponding plotting script is shown below:
+To plot post-processed figures, place the data files (.csv or .npy) with the corresponding plotting script in the same folder. 
+
+The pairs are listed in the table below:
 Data file  | Plotting script 
 ------------- | -------------
 data_critical-strain.csv  | plot_critical_strain.py 
