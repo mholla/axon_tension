@@ -26,9 +26,9 @@ The pairs are listed in the table below:
 Data file  | Plotting script 
 ------------- | -------------
 data_critical-strain.csv  | plot_critical_strain.py 
-data_geometrical.csv  | plot_geometrical_parametric.py
-data_single-curve.csv | plot_geometrical_parametric.py
-data_three_axon_tracts.csv  | plot_three_curves_parametric.py
+psi_array_geometry.csv  | plot_geometrical_parametric.py
+psi_array_perturbation.csv | plot_thickness_perturbation_parametric.py
+psi_array_three_curves.csv | plot_three_curves_parametric.py
 Job-K1-100-K2-25-total.npy <br> Job-K1-100-K2-100-total.npy<br> Job-K1-100-K2-400-total.npy | plot_wiring_length_change_eta.py
 Job-K1-100-K2-100-total.npy <br> Job-K1-200-K2-200-total.npy<br> Job-K1-300-K2-300-total.npy | plot_wiring_length_keep_eta.py
 
